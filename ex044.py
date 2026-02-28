@@ -8,10 +8,9 @@ o seu PREÇO NORMAL e CONDIÇÃO DE PAGAMENTO:
 > 3x ou mais no cartão: 20% de juros
 """
 from time import sleep
-import os
+
 
 while True:
-    os.system('clear')
     print('-' * 45)
     print('       Escolha a forma de pagamento:')
     print('[1] à vista dinheiro/cheque: 10% de desconto')
